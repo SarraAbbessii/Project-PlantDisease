@@ -1,0 +1,192 @@
+{
+    "0": {
+        "name": "Apple___Apple_scab",
+        "treatment": "Utilisez des fongicides préventifs et éliminez les feuilles infectées.",
+        "medication": "Mancozèbe, Captane"
+    },
+    "1": {
+        "name": "Apple___Black_rot",
+        "treatment": "Appliquez des fongicides pour contrôler la pourriture noire.",
+        "medication": "Captane, Mancozèbe"
+    },
+    "2": {
+        "name": "Apple___Cedar_apple_rust",
+        "treatment": "Utilisez un fongicide préventif et éliminez les plantes-hôtes telles que les genévriers.",
+        "medication": "Myclobutanil, Mancozèbe"
+    },
+    "3": {
+        "name": "Apple___healthy",
+        "treatment": "La plante est en bonne santé, aucun traitement n'est nécessaire.",
+        "medication": "Aucun"
+    },
+    "4": {
+        "name": "Blueberry___healthy",
+        "treatment": "La plante est en bonne santé, aucun traitement n'est nécessaire.",
+        "medication": "Aucun"
+    },
+    "5": {
+        "name": "Cherry_(including_sour)___Powdery_mildew",
+        "treatment": "Traitez avec des fongicides et taillez pour améliorer la circulation de l'air.",
+        "medication": "Soufre, Bicarbonate de potassium"
+    },
+    "6": {
+        "name": "Cherry_(including_sour)___healthy",
+        "treatment": "La plante est en bonne santé, aucun traitement n'est nécessaire.",
+        "medication": "Aucun"
+    },
+    "7": {
+        "name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+        "treatment": "Appliquez des fongicides et adoptez une rotation des cultures.",
+        "medication": "Propiconazole, Azoxystrobine"
+    },
+    "8": {
+        "name": "Corn_(maize)___Common_rust_",
+        "treatment": "Appliquez des fongicides spécifiques pour contrôler la rouille.",
+        "medication": "Tebuconazole, Mancozèbe"
+    },
+    "9": {
+        "name": "Corn_(maize)___Northern_Leaf_Blight",
+        "treatment": "Utilisez des fongicides et retirez les feuilles infectées.",
+        "medication": "Azoxystrobine, Mancozèbe"
+    },
+    "10": {
+        "name": "Corn_(maize)___healthy",
+        "treatment": "La plante est en bonne santé, aucun traitement n'est nécessaire.",
+        "medication": "Aucun"
+    },
+    "11": {
+        "name": "Grape___Black_rot",
+        "treatment": "Appliquez des fongicides et taillez pour réduire l'humidité.",
+        "medication": "Myclobutanil, Mancozèbe"
+    },
+    "12": {
+        "name": "Grape___Esca_(Black_Measles)",
+        "treatment": "Utilisez des fongicides spécifiques pour contrôler les symptômes.",
+        "medication": "Tebuconazole, Trifloxystrobine"
+    },
+    "13": {
+        "name": "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)",
+        "treatment": "Éliminez les feuilles infectées et appliquez des fongicides.",
+        "medication": "Mancozèbe, Myclobutanil"
+    },
+    "14": {
+        "name": "Grape___healthy",
+        "treatment": "La plante est en bonne santé, aucun traitement n'est nécessaire.",
+        "medication": "Aucun"
+    },
+    "15": {
+        "name": "Orange___Haunglongbing_(Citrus_greening)",
+        "treatment": "Enlevez les arbres infectés et contrôlez les insectes vecteurs.",
+        "medication": "Imidaclopride pour contrôler les psylles."
+    },
+    "16": {
+        "name": "Peach___Bacterial_spot",
+        "treatment": "Traitez avec des produits à base de cuivre et améliorez la circulation de l'air.",
+        "medication": "Oxychlorure de cuivre"
+    },
+    "17": {
+        "name": "Peach___healthy",
+        "treatment": "La plante est en bonne santé, aucun traitement n'est nécessaire.",
+        "medication": "Aucun"
+    },
+    "18": {
+        "name": "Pepper,_bell___Bacterial_spot",
+        "treatment": "Appliquez des produits contenant du cuivre.",
+        "medication": "Hydroxyde de cuivre"
+    },
+    "19": {
+        "name": "Pepper,_bell___healthy",
+        "treatment": "La plante est en bonne santé, aucun traitement n'est nécessaire.",
+        "medication": "Aucun"
+    },
+    "20": {
+        "name": "Potato___Early_blight",
+        "treatment": "Appliquez des fongicides et limitez l'excès d'irrigation.",
+        "medication": "Chlorothalonil, Mancozèbe"
+    },
+    "21": {
+        "name": "Potato___Late_blight",
+        "treatment": "Appliquez des fongicides systémiques et éliminez les parties infectées.",
+        "medication": "Méfénoxam, Métalaxyl"
+    },
+    "22": {
+        "name": "Potato___healthy",
+        "treatment": "La plante est en bonne santé, aucun traitement n'est nécessaire.",
+        "medication": "Aucun"
+    },
+    "23": {
+        "name": "Raspberry___healthy",
+        "treatment": "La plante est en bonne santé, aucun traitement n'est nécessaire.",
+        "medication": "Aucun"
+    },
+    "24": {
+        "name": "Soybean___healthy",
+        "treatment": "La plante est en bonne santé, aucun traitement n'est nécessaire.",
+        "medication": "Aucun"
+    },
+    "25": {
+        "name": "Squash___Powdery_mildew",
+        "treatment": "Traitez avec des produits biologiques ou chimiques adaptés.",
+        "medication": "Soufre, Huile de neem"
+    },
+    "26": {
+        "name": "Strawberry___Leaf_scorch",
+        "treatment": "Appliquez des fongicides et éliminez les feuilles infectées.",
+        "medication": "Captane, Thiophanate-méthyle"
+    },
+    "27": {
+        "name": "Strawberry___healthy",
+        "treatment": "La plante est en bonne santé, aucun traitement n'est nécessaire.",
+        "medication": "Aucun"
+    },
+    "28": {
+        "name": "Tomato___Bacterial_spot",
+        "treatment": "Traitez avec des produits à base de cuivre.",
+        "medication": "Hydroxyde de cuivre"
+    },
+    "29": {
+        "name": "Tomato___Early_blight",
+        "treatment": "Appliquez des fongicides adaptés et améliorez la ventilation.",
+        "medication": "Mancozèbe, Chlorothalonil"
+    },
+    "30": {
+        "name": "Tomato___Late_blight",
+        "treatment": "Utilisez des fongicides systémiques et éliminez les plantes gravement infectées.",
+        "medication": "Méfénoxam, Métalaxyl"
+    },
+    "31": {
+        "name": "Tomato___Leaf_Mold",
+        "treatment": "Améliorez la ventilation de la serre et appliquez des fongicides.",
+        "medication": "Chlorothalonil, Mancozèbe"
+    },
+    "32": {
+        "name": "Tomato___Septoria_leaf_spot",
+        "treatment": "Traitez avec des produits à base de cuivre et éliminez les feuilles infectées.",
+        "medication": "Captane, Hydroxyde de cuivre"
+    },
+    "33": {
+        "name": "Tomato___Spider_mites Two-spotted_spider_mite",
+        "treatment": "Appliquez des acaricides ou des huiles horticoles.",
+        "medication": "Abamectine, Huiles horticoles"
+    },
+    "34": {
+        "name": "Tomato___Target_Spot",
+        "treatment": "Traitez avec des fongicides adaptés.",
+        "medication": "Mancozèbe, Propiconazole"
+    },
+    "35": {
+        "name": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+        "treatment": "Contrôlez les aleurodes avec des insecticides.",
+        "medication": "Imidaclopride"
+    },
+    "36": {
+        "name": "Tomato___Tomato_mosaic_virus",
+        "treatment": "Détruisez les plantes infectées et désinfectez les outils.",
+        "medication": "Aucun médicament, hygiène seulement"
+    },
+    "37": {
+        "name": "Tomato___healthy",
+        "treatment": "La plante est en bonne santé, aucun traitement n'est nécessaire.",
+        "medication": "Aucun"
+    }
+}
